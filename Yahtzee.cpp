@@ -3,7 +3,6 @@
  * 
  * Course: CS 141, Fall 2022
  * System: MacOS using VSCode
- * Starter Code Author: Dr. Sara Riazi
  * Student Author: Albert Huynh
  *
  * Starter code provided by: Dr. Sara Riazi
