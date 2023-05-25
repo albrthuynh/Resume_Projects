@@ -3,7 +3,6 @@
  * 
  * Course: CS 211, Spring 2023
  * System: MacOS using VSCode
- * Starter Code Author: Ellen Kidane
  * Student Author: Albert Huynh
  *
  * ***************************/
